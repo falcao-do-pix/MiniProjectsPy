@@ -6,7 +6,7 @@ se divirtam com os jogins
 
 realizado por:
 
-Fabricio 
-Jefferson D.
-Vitor de Jesus 
-Virto Melo
+Fabricio; 
+Jefferson D.;
+Vitor de Jesus; 
+Virto Melo.
